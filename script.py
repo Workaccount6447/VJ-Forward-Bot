@@ -4,8 +4,9 @@ from config import Config
 class  Script(object):
   START_TXT = """<b>ʜɪ {}
   
-ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ
+ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ꜰᴏʀᴡᴀʀᴅᴇʀ ʀᴏʙᴏᴛ
 ɪ ᴄᴀɴ ꜰᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ꜰʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</b>
+<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ & ᴍᴀᴅᴇ ʙʏ : <a href='https://telegram.me/RoyalityBots'>ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛꜱ</a></b></blockquote>"""
 
 **ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ**"""
   HELP_TXT = """<b><u>🔆 Help</b></u>
@@ -19,7 +20,7 @@ class  Script(object):
 ⏣ __ /reset - reset your settings__</b>
 
 <b><u>💢 Features:</b></u>
-<b>► __Forward message from public channel to your channel without admin permission. if the channel is private need admin permission, if you can't give admin permission then use userbot, but in userbot there is a chance to get your account ban so use fake account__
+<b>► __Forward message from public channel to your channel without admin permission. if the channel is private need admin permission, if you can't give admin permission then use userbot __
 ► __custom caption__
 ► __custom button__
 ► __skip duplicate messages__
@@ -31,20 +32,18 @@ class  Script(object):
 ► __add atleast one to channel__ `(your bot/userbot must be admin in there)`
 ► __You can add chats or bots by using /settings__
 ► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
-► __Then use /forward to forward messages__
-
-► ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ [ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ](https://youtu.be/wO1FE-lf35I)</b>"""
+► __Then use /forward to forward messages__"""
   
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/VJForwardBot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/kingvj01)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/vj_botz)
+║┣⪼📃ʙᴏᴛ : [ᴀᴅᴠᴀɴᴄᴇ ꜰᴏʀᴡᴀʀᴅᴇʀ ʀᴏʙᴏᴛ](https://t.me/AdvanceForwarderRobot)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛs 👑](https://t.me/kingvj01)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛs](https://t.me/RoyalityBots)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
-║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
+║┣⪼🗒️Vᴇʀsɪᴏɴ : 5.18.3
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁۪۪
 </b>"""
