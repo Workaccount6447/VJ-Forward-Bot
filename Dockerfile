@@ -19,3 +19,4 @@ EXPOSE 8000
 
 # Start services
 CMD ["bash", "-lc", "gunicorn app:app --workers 2 --threads 2 --bind 0.0.0.0:8000 & python3 main.py"]
+
