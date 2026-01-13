@@ -43,7 +43,7 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [ᴀᴅᴠᴀɴᴄᴇ ꜰᴏʀᴡᴀʀᴅᴇʀ ʀᴏʙᴏᴛ](https://t.me/AdvanceForwarderRobot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛs 👑](https://t.me/kingvj01)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛs 👑](https://t.me/RoyalityBots)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛs](https://t.me/RoyalityBots)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
