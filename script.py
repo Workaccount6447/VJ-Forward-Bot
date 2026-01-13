@@ -9,7 +9,7 @@ class  Script(object):
 <blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ & ᴍᴀᴅᴇ ʙʏ : <a href='https://telegram.me/RoyalityBots'>ʀᴏʏᴀʟɪᴛʏ ʙᴏᴛꜱ</a></b></blockquote>"""
 
 **ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ**"""
-  HELP_TXT = """<b><u>🔆 Help</b></u>
+  HELP_TXT = """<b><u> Help</b></u>
 
 <u>**📚 Available commands:**</u>
 <b>⏣ __/start - check I'm alive__ 
