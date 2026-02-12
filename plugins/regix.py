@@ -33,6 +33,13 @@ TEXT = Script.TEXT
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
+REMOVE_WORD = "✨ @MoviesWorldBkp"
+
+def clean_text(text):
+    if not text:
+        return text
+    return text.replace(REMOVE_WORD, "").strip()
+
 @Client.on_callback_query(filters.regex(r'^start_public'))
 async def pub_(bot, message):
     user = message.from_user.id
